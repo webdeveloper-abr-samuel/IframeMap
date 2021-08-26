@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset=utf-8 />
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.mapbox.com/mapbox.js/v3.2.1/mapbox.js'></script>
+    <link href='https://api.mapbox.com/mapbox.js/v3.2.1/mapbox.css' rel='stylesheet' />
+    <link rel="stylesheet" href="assets/css/bootstrap/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/MarkerCluster.css">
+    <link rel="stylesheet" href="assets/css/MarkerCluster.Default.css">
+    <link href='assets/css/style.css' rel='stylesheet' />
+    <link href="https://unpkg.com/gijgo@1.9.13/css/gijgo.min.css" rel="stylesheet" type="text/css" />
+    <link rel="icon" href="favicon.ico" type="image/ico" sizes="150x150">
+    <title>Data mapas</title>
+</head>
+
+<body>
+    <!-- todo el contenido del modal empieza aqui-->
+    <div class="container">
+        <div class="modal right fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content modal-sm">                   
+                    <div class="modal-body">
+                        <div class="accordion" id="accordionExample">
+                            <div class="card">
+                              <div class="card-header" id="headingOne">
+                                <h2 class="mb-0">
+                                  <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    Informacion Basica
+                                  </button>
+                                </h2>
+                              </div>
+                          
+                              <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+                                <div class="card-body text-center mb-1 mt-2">
+                                    <label for="NombreNegocio" class="nombre"></label>
+                                    <div class="input-group input-content input-group-content col-12 mr-3">
+                                        <div class="input-group-prepend">
+                                            <div class="input-group-text">
+                                                <i class="fa fa-user" aria-hidden="true"></i>
+                                            </div>
+                                        </div>
+                                        <input type="text" class="form-control" placeholder='Nombre Cliente'
+                                            id="NombreNegocio" disabled>
+                                    </div>
+                                    <label for="Direccion" class="direccion mb-1 mt-2"></label>
+                                    <div class="input-group input-group-content col-12">
+                                        <div class="input-group-prepend">
+                                            <div class="input-group-text">
+                                                <i class="fas fa-map-marked-alt"></i>
+                                            </div>
+                                        </div>
+                                        <input type="text" class="form-control" placeholder='Direccion'
+                                            id="Direccion" disabled>
+                                    </div>
+                                    <label for="Telefono" class="telefono mb-1 mt-2"></label>
+                                    <div class="input-group input-group-content col-12 mr-1">
+                                        <div class="input-group-prepend">
+                                            <div class="input-group-text">
+                                                <i class="fas fa-mobile-alt"></i>
+                                            </div>
+                                        </div>
+                                        <input type="text" class="form-control" placeholder='Telefono'
+                                            id="Telefono" disabled>
+                                    </div>
+                                    <label for="Contacto" class="contacto mb-1 mt-2"></label>
+                                    <div class="input-group input-group-content col-12  mr-1">
+                                        <div class="input-group-prepend">
+                                            <div class="input-group-text">
+                                                <i class="fas fa-user-tie"></i>
+                                            </div>
+                                        </div>
+                                        <input type="text" class="form-control" placeholder='Contacto'
+                                            id="Contacto" disabled>
+                                    </div>
+                                    <label for="Asesor" class="asesor mb-1 mt-2"></label>
+                                    <div class="input-group input-group-content col-12  mr-1">
+                                        <div class="input-group-prepend">
+                                            <div class="input-group-text">
+                                                <i class="fas fa-address-card"></i>
+                                            </div>
+                                        </div>
+                                        <input type="text" class="form-control" placeholder='Asesor' id="Asesor"
+                                            disabled>
+                                    </div>
+                                    <label for="Last" class="ultima_visita mb-1 mt-2"></label>
+                                    <div class="input-group input-group-content col-12 mr-1">
+                                        <div class="input-group">
+                                            <div class="input-group-prepend">
+                                                <div class="input-group-text">
+                                                    <i class="fas fa-stopwatch"></i>
+                                                </div>
+                                            </div>
+                                            <input type="text" class="form-control"
+                                                placeholder='Ultima Visita' id="Last" disabled>
+                                        </div>
+                                    </div>
+                                    <label for="Territorio" class="ciudad mb-1 mt-2"></label>
+                                    <div class="input-group  col-12 mr-1">
+                                        <div class="input-group">
+                                            <div class="input-group-prepend">
+                                                <div class="input-group-text">
+                                                    <i class="fas fa-street-view"></i>
+                                                </div>
+                                            </div>
+                                            <input type="text" class="form-control" placeholder='Ciudad'
+                                                id="Ciudad" disabled>
+                                        </div>
+                                    </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="card">
+                              <div class="card-header" id="headingTwo">
+                                <h2 class="mb-0">
+                                  <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    Lineas de Consumo
+                                  </button>
+                                </h2>
+                              </div>
+                              <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                                <div class="card-body">
+                                    <label>
+                                        Lijado
+                                    </label>
+                                    <div class="input-group">
+                                        <div class="input-group-prepend">
+                                            <div class="input-group-text">
+                                                <i class="fas fa-copy"></i>
+                                            </div>
+                                        </div>
+
+                                        <input type="text" class="form-control" placeholder='No Compra'
+                                            id="CantidadL" disabled>
+                                    </div>
+
+                                    <label class="mt-3">
+                                        Flap Disc
+                                    </label>
+                                    <div class="input-group">
+                                        <div class="input-group-prepend">
+                                            <div class="input-group-text">
+                                                <i class="fas fa-fan"></i>
+                                            </div>
+                                        </div>
+                                        <input type="text" class="form-control" placeholder='No Compra'
+                                            id="CantidadF" disabled>
+                                    </div>
+
+                                    <label class="mt-3">
+                                        Disco Fino
+                                    </label>
+                                    <div class="input-group">
+                                        <div class="input-group-prepend">
+                                            <div class="input-group-text">
+                                                <i class="fas fa-compact-disc"></i>
+                                            </div>
+                                        </div>
+                                        <input type="text" class="form-control" placeholder='No Compra'
+                                            id="CantidadD" disabled>
+                                    </div>
+                                    <div class="input-group mt-3">
+                                        <label class="m-auto">
+                                            Aviso Exterior 
+                                        </label>
+                                        <label class="m-auto">
+                                            Aviso Interior
+                                        </label>
+                                        <label class="m-auto">
+                                            Exhibidor
+                                        </label>
+                                    </div>
+                                    <div class="input-group mb-3">
+                                        <label class="mx-auto">
+                                            <i id='avisoE' class="fas fa-times-circle fa-2x"></i>
+                                        </label>
+                                        <label class="mx-auto">
+                                            <i id='avisoI' class="fas fa-times-circle fa-2x"></i>
+                                        </label>
+                                        <label class="mx-auto">
+                                            <i id='exhibi' class="fas fa-times-circle fa-2x"></i>
+                                        </label>
+                                    </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="card">
+                              <div class="card-header" id="headingThree">
+                                <h2 class="mb-0">
+                                  <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    Foto
+                                  </button>
+                                </h2>
+                              </div>
+                              <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                                <div class="card-body">
+                                    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                                        <div class="card-body">
+                                            <img id='foto' src="assets/img/default.png" onerror="this.src='assets/img/default.png';" width="350px">
+                                        </div>
+                                    </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                    </div>
+
+                </div>
+                <!-- modal-content -->
+            </div>
+            <!-- modal-dialog -->
+        </div>
+        <!-- modal -->
+    </div>
+    <!-- aqui termina el modal -->
+
+    <!-- aqui comienza el navbar-->
+    <nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-dark" style="height: 71px;font-size: 67%;">
+        <a class="navbar-brand" href="#" onclick="borrarTipo()">
+            <img src="assets/img/logo-blanco.png" class="img-fluid" height="70px" width="250px">
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">
+                        <label class="btn f-general" id="label-f-general">
+                            <input type="radio" name="optionsTipo" id="f-general" value="Ferreterías en general"
+                                onchange="getTipologia('Ferreterías en general');" hidden>
+                        </label>
+                    </a>
+                </li>
+                <li class="nav-item active">
+                    <div id="textGen" class="nav-link">Ferreterías en general</div>
+                </li>
+                <li class="nav-item active">
+                    <div id="totF" class="nav-link pr-2">100.000</div>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">
+                        <label class="btn depositos" id="label-depositos">
+                            <input type="radio" name="optionsTipo" id="depositos" value="Depósitos de materiales"
+                                onchange="getTipologia('Depósitos de materiales');" hidden>
+                        </label>
+                    </a>
+                </li>
+                <li class="nav-item active">
+                    <div id="textMat" class="nav-link">Depósitos de materiales</div>
+                </li>
+                <li class="nav-item active">
+                    <div id="totD" class="nav-link pr-2">100.000</div>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">
+                        <label class="btn arquitectonicas" id="label-arquitectonicas">
+                            <input type="radio" name="optionsTipo" id="arquitectonicas"
+                                value="Almacenes de Pinturas Arquitectonicas"
+                                onchange="getTipologia('Almacenes de Pinturas Arquitectonicas');" hidden>
+                        </label>
+                    </a>
+                </li>
+                <li class="nav-item active">
+                    <div id="textMat" class="nav-link">Almacenes de Pinturas Arquitectónicas</div>
+                </li>
+                <li class="nav-item active">
+                    <div id="totP" class="nav-link pr-2">100.000</div>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">
+                        <label class="btn electricos" id="label-electricos">
+                            <input type="radio" name="optionsTipo" id="electricos" value="Almacen de Eléctricos"
+                                onchange="getTipologia('Almacen de Eléctricos');" hidden>
+                        </label>
+                    </a>
+                </li>
+                <li class="nav-item active">
+                    <div id="textMat" class="nav-link">Almacen de Eléctricos</div>
+                </li>
+                <li class="nav-item active">
+                    <div id="totE" class="nav-link pr-2">100.000</div>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">
+                        <label class="btn otros" id="label-otros">
+                            <input type="radio" name="optionsTipo" id="otros" value="Otros"
+                                onchange="getTipologia('Otros');" hidden>
+                        </label>
+                    </a>
+                </li>
+                <li class="nav-item active">
+                    <div id="textMat" class="nav-link">Otros</div>
+                </li>
+                <li class="nav-item active">
+                    <div id="totO" class="nav-link">100.000</div>
+                </li>
+                <p class="navbar-brand total">Total:</p>
+                <p class="navbar-brand total" id="tot">100000000</p>
+            </ul>
+        </div>
+    </nav>
+    <!-- aqui termina el navbar -->
+
+    <div id='map'></div>
+
+    <div class="content">
+        <div class="card text-white colorCard" style="padding-top: 16%; padding-left: 0px;">
+            <div class="row contentRow">
+                <div class="col-md-2">
+                    <div id="classContainer" id="clasify" class="btn-group-vertical btn-group-toggle col"
+                        data-toggle="buttons">
+                        <label class="btn squareAA" id="label-clasAA">
+                            <input type="radio" name="options" id="clasAA" value="AA"
+                                onchange="getClasificacion('AA');">
+                            <div style="position: absolute; left: 23%; top: 5%;">AA</div>
+                        </label>
+
+                        <label class="btn squareA" id="label-clasA">
+                            <input type="radio" name="options" id="clasA" value="A" onchange="getClasificacion('A');">
+                            <div style="position: absolute; left: 34%; top: 5%;">A</div>
+                        </label>
+
+                        <label class="btn squareB" id="label-clasB">
+                            <input type="radio" name="options" id="clasB" value="B" onchange="getClasificacion('B');">
+                            <div style="position: absolute; left: 34%; top: 5%;">B</div>
+                        </label>
+
+                        <label class="btn squareC" id="label-clasC">
+                            <input type="radio" name="options" id="clasC" value="C" onchange="getClasificacion('C');">
+                            <div style="position: absolute; left: 34%; top: 5%;" >C</div>
+                        </label>
+                    </div>
+                </div>
+                <div class="col text-black">
+                    <div id="textAA" class="row clasif ">Compras mayores a $500.000 - Mes</div>
+                    <div id="textA" class="row clasif ">Compras entre $300.000 y $500.000 - Mes</div>
+                    <div id="textB" class="row clasif">Compras entre $100.000 y $300.000 - Mes</div>
+                    <div id="textC" class="row clasif">Compras menores a $100.000 - Mes</div>
+                    <button hidden style="top: 14px; left: 284px;"></button>
+
+                </div>
+            </div>
+        </div>
+        
+        <div style="padding-left: 0px;">
+            <div class="card text-white card-responsive" style="height: 384px; ">
+                <div class="card-body colorCard body-responsive" style="padding-top: 4px;"> 
+                    <div id="carousel" class="carousel slide" data-bs-ride="carousel" data-interval="false" style="margin-left: -1%;" >
+                        <div class="carousel-inner">
+                            <div class="tamCarousel carousel-item active">
+                                <div class="bg-dark ">
+                                    <h5 id='hora'>Visitas realizada a las horas</h5>
+                                    <div class="row">
+                                        <div id="classContainer" class="col-md-2 btn-group-vertical col">
+                                            <label class="btn squareAA"><i class="fas fa-table"></i></label>
+                                            <label class="btn squareA">I</label>
+                                            <label class="btn squareB"><i class="fas fa-sign"></i></label>
+                                            <label class="btn squareC"><i class="fas fa-running"></i></label>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <div class="clasif">Negocios con Exhibidores</div>
+                                            <div class="clasif">Negocios con aviso Interno</div>
+                                            <div class="clasif">Negocios con aviso exterior</div>
+                                            <div class="clasif">Total Visitas</div>
+                                        </div>
+                                        <div class="col-md-2">
+                                            <div id='countExhibi' class="clasif">0</div>
+                                            <div id='countInter' class="clasif">0</div>
+                                            <div id='countExter' class="clasif">0</div>
+                                            <div id='total' class="clasif">0</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="tamCarousel carousel-item">
+                                <div class="bg-dark">
+                                    <h5 id='tituEstad' class="text-center">Estadisticas del dia de ayer</h5>
+                                    <div class="row">
+                                        <div id="classContainer" class="btn-group-vertical col-md-2">
+                                            <label class="btn square"><i class="fas fa-percentage"></i></label>
+                                            <label class="btn square"><i class="fas fa-building"></i></label>
+                                            <label class="btn square"><i class="fas fa-table"></i></label>
+                                            <label class="btn square"><i class="fas fa-sign"></i></label>
+                                            <label class="btn square"><i class="far fa-address-book"></i></label>
+                                            <label class="btn square"><i class="fas fa-running"></i></label>
+                                        </div>
+                                        <div class="col-md-8">
+                                            <div class="row clasif">Efectividad</div>
+                                            <div class="row clasif">Promedio Visitas AAD</div>
+                                            <div class="row clasif">Clientes con exhibidor</div>
+                                            <div class="row clasif">Clientes con aviso/fachada</div>
+                                            <div class="row clasif">Total de AAD</div>
+                                            <div class="row clasif">Total Visitas</div>
+                                        </div>
+                                        <div class="col-md-2">
+                                            <div id='efec' class="row clasif">0%</div>
+                                            <div id='promVis' class="row clasif">0</div>
+                                            <div id='promExhib' class="row clasif">0%</div>
+                                            <div id='promAvis' class="row clasif">0%</div>
+                                            <div id='Agent' class="row clasif">0</div>
+                                            <div id='totalVisi' class="row clasif">0</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <a class="carousel-control-prev" width="10px" href="#carousel" role="button"
+                        data-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" width="10px" href="#carousel" role="button"
+                            data-slide="next">
+                            <span  class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
+                    </div>
+                    <div class="mb-1">
+                        <span class="text-black">Cantidad de registros:&nbsp;</span>
+                        <span id="dataQty"></span>
+                    </div>
+                </div>
+            </div>        
+        </div>
+    </div>
+    
+
+    <div id="ani-container" class="btn-group-vertical mt-1 btn-group-toggle col">
+        <input 
+            type="button" 
+            class="btn btn-sm btn-primary col-md-1" 
+            name="animation-mode" 
+            id="ani-manu" 
+            value="Auto" 
+            onclick="location.reload()"
+        >
+        <button 
+            class="btn btn-sm btn-primary col-md-1" 
+            name="animation-mode" 
+            id="ani-auto" 
+            onclick="stop()"
+        >
+            Parar
+        </button>
+        <button class="btn btn-sm btn-primary col-md-1" onclick="modales()">
+            modal
+        </button>
+    </div>
+
+    <script src="assets/js/jquery.js"></script>
+    <script src="assets/js/bootstrap/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/popper-core-master/src/popper.js"></script>
+    <script src="https://unpkg.com/gijgo@1.9.13/js/gijgo.min.js" type="text/javascript"></script>
+    <script src="assets/js/highcharts/highcharts.js"></script>
+    <script src="assets/js/highcharts/highcharts-3d.js"></script>
+    <script src="assets/js/highcharts/highcharts-more.js"></script>
+    <script src="assets/js/exporting.js"></script>
+    <script src="assets/js/export-data.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue-resource@1.5.1"></script>
+    <script src="assets/js/script.js"></script>
+    <script src="assets/js/animacion.js"></script>
+    <script src="assets/css/fontawesome-free-5.12.1-web/js/all.min.js"></script>
+    <script src="assets/css/fontawesome-free-5.12.1-web/js/fontawesome.min.js"></script>
+    <script src="assets/js/leaflet.markercluster.js"></script>
+</body>
+</html>

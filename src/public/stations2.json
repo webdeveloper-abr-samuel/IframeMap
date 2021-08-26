@@ -1,0 +1,5325 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Posada cerrajería y ferretería",
+                "estrato": "1",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Palmira",
+                "barrio": "Centro",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.2980245,
+                    3.5250295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Laquipinturas",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Antioquia",
+                "ciudadPoblacion": "Medellín",
+                "barrio": "Granada",
+                "clasificacion": "AA",
+                "tipologia": "Depósitos de materiales",
+                "pubExte": "Si",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "DepositoAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.46599490000001,
+                    6.3843073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferrollaves sofia",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "El dorado",
+                "clasificacion": "B",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#B0CC49",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaB.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5275341,
+                    3.4209167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Pinturas San Juan",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Antioquia",
+                "ciudadPoblacion": "Amalfi",
+                "barrio": "COLMENARES",
+                "clasificacion": "A",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#DA802D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6065402,
+                    6.2512852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferretería oyc",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Palmira",
+                "barrio": "Poblados de Lourdes ",
+                "clasificacion": "AA",
+                "tipologia": "Ferretería Industrial",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.3132021,
+                    3.5498732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferrevelez",
+                "estrato": "4",
+                "pais": "Colombia",
+                "departamento": "Antioquia",
+                "ciudadPoblacion": "Medellín",
+                "barrio": "Los Alpes",
+                "clasificacion": "B",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#B0CC49",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaB.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.46599490000001,
+                    6.3843073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Soluciones Showup",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Antioquia",
+                "ciudadPoblacion": "Medellín",
+                "barrio": "",
+                "clasificacion": "AA",
+                "tipologia": "Almacén Especializado en Abrasivos",
+                "pubExte": "Si",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "AbrasivosAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.465993,
+                    6.3843099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferromateriales la 94",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Polvorines",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5613957,
+                    3.3786514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferretería las Vegas",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "La Flora",
+                "clasificacion": "A",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "Si",
+                "exhibi": "No",
+                "marker-color": "#DA802D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5859456,
+                    6.238208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferretería don kiko",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Siloe",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5566936,
+                    3.4162955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferretería uribe",
+                "estrato": "1",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Palmira",
+                "barrio": "Centro",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.2941344,
+                    3.5311109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferrotornillos torrebak",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Palmira",
+                "barrio": "Uribe",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.2935009,
+                    3.5296045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Depósito y ferretería madera JC yusty",
+                "estrato": "1",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Palmira",
+                "barrio": "Colombia",
+                "clasificacion": "AA",
+                "tipologia": "Ferretería Industrial",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.3029865,
+                    3.5341684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferroelectricos tez",
+                "estrato": "1",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Palmira",
+                "barrio": "Uribe",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.290545,
+                    3.5301684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferroelectricos el arquitecto",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Yumbo",
+                "barrio": "Bella vista",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.4871472,
+                    3.5900128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferromateriales villamil",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Melendez",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5460942,
+                    3.3754518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferretería factory",
+                "estrato": "4",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Caney",
+                "clasificacion": "AA",
+                "tipologia": "",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.51556,
+                    3.3764676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferretería calicanti",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Calicanto",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5198187,
+                    3.3727825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferretería Felipe",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Los chorros",
+                "clasificacion": "A",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "Si",
+                "marker-color": "#DA802D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5573712,
+                    3.3891238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferropinturas jaby",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Caldas",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5475151,
+                    3.394272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferretería la nueva era",
+                "estrato": "1",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Alfonzo lopez",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.4818467,
+                    3.4634734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferretería la octava de miranda",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Cauca",
+                "ciudadPoblacion": "Corinto",
+                "barrio": "Central",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.2357233,
+                    3.3107467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferroelectricos sixto",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Naranjos",
+                "clasificacion": "B",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#B0CC49",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaB.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5542192,
+                    3.3910106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "ABC",
+                "estrato": "4",
+                "pais": "Colombia",
+                "departamento": "Antioquia",
+                "ciudadPoblacion": "Anzá",
+                "barrio": "Bello",
+                "clasificacion": "AA",
+                "tipologia": "Almacén de Pinturas Automotrices - Tinturadores",
+                "pubExte": "Si",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "pinturasAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.465787,
+                    6.3844333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Hoyostooos",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Napoles",
+                "clasificacion": "A",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#DA802D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.527427,
+                    3.452497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Prueba 23 de septiembre",
+                "estrato": "5",
+                "pais": "Colombia",
+                "departamento": "Antioquia",
+                "ciudadPoblacion": "Abejorral",
+                "barrio": "Boston",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4657862,
+                    6.3844417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "R.A ferretería",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Yumbo",
+                "barrio": "Lleras",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "No",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.4927483,
+                    3.5893499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferrovariades alvaro",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Polvorines",
+                "clasificacion": "A",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#DA802D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5611449,
+                    3.3798101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "El tornillo y la herramienta de loren",
+                "estrato": "1",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Vijes",
+                "barrio": "-",
+                "clasificacion": "A",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#DA802D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.3881382,
+                    3.6148868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferro variedades milenio",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Palmira",
+                "barrio": "Poblado",
+                "clasificacion": "A",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "No",
+                "exhibi": "Si",
+                "marker-color": "#DA802D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.2854598,
+                    3.54145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Maderas comolaric",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Autopista",
+                "clasificacion": "A",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "Si",
+                "marker-color": "#DA802D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5219738,
+                    3.4350487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferretería aros",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Palmira",
+                "barrio": "Centro",
+                "clasificacion": "A",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#DA802D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.3114356,
+                    3.5453387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferreteria Valenzuela",
+                "estrato": "",
+                "pais": " Colombia",
+                "departamento": "",
+                "ciudadPoblacion": " Cali",
+                "barrio": "",
+                "clasificacion": "",
+                "tipologia": "",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#FFF02D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5013261,
+                    3.4440597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferretería compartir",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Compartir",
+                "clasificacion": "B",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#B0CC49",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaB.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5542188,
+                    3.3910102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferretería la 70",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Caldas",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5532922,
+                    3.3934598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferretodo el constructor",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Dorado",
+                "clasificacion": "B",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#B0CC49",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaB.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5281567,
+                    3.4155383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferromiscelanea la 53",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Los andes",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5010073,
+                    3.4713672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferremateriales jg",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Candelaria",
+                "barrio": "Villa Gorgona",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.382721,
+                    3.4019485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferremas",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Cauca",
+                "ciudadPoblacion": "Corinto",
+                "barrio": "Villa Gorgona",
+                "clasificacion": "A",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#DA802D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.3808272,
+                    3.4045524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Servitornillos",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Yumbo",
+                "barrio": "Poblado",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "No",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.4952436,
+                    3.582144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Miscelánea la 70 tornillos",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Buenos aires",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5488972,
+                    3.3940189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferretería jesmar",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Oriente",
+                "clasificacion": "B",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#B0CC49",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaB.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5542205,
+                    3.3910112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Eléctricos ",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "La 39",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5080532,
+                    3.4209923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Almacén el pintor ",
+                "estrato": "1",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "El Cerrito",
+                "barrio": "El cerrito",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.3132467,
+                    3.6852584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "HYO José store",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Cauca",
+                "ciudadPoblacion": "Corinto",
+                "barrio": "Villa Gorgona ",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "Si",
+                "exhibi": "No",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.3822278,
+                    3.4024414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "AFC 17",
+                "estrato": "4",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "La Victoria",
+                "barrio": "Centro",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "Si",
+                "exhibi": "No",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4658033,
+                    6.3844396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Pinturas Y Mangueras",
+                "estrato": "",
+                "pais": " Colombia",
+                "departamento": "Cundinamarca",
+                "ciudadPoblacion": " Bogota",
+                "barrio": "",
+                "clasificacion": "",
+                "tipologia": "",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#FFF02D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1054884,
+                    4.592884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "La Tienda Del Pintor",
+                "estrato": "",
+                "pais": " Colombia",
+                "departamento": "",
+                "ciudadPoblacion": " Santa Rosa",
+                "barrio": "",
+                "clasificacion": "",
+                "tipologia": "",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#FFF02D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.714525,
+                    38.411161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Construcasa",
+                "estrato": "4",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Caney",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "No",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5188991,
+                    3.3740595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Negó AFC",
+                "estrato": "4",
+                "pais": "Colombia",
+                "departamento": "Antioquia",
+                "ciudadPoblacion": "Abejorral",
+                "barrio": "Los Alpes",
+                "clasificacion": "B",
+                "tipologia": "Almacén Especializado en Abrasivos",
+                "pubExte": "Si",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#B0CC49",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "AbrasivosAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4658033,
+                    6.3844396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Distribuidora trilac",
+                "estrato": "1",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Caldas",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5477451,
+                    3.3941754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferroelectricos santi",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Morichal de confandy",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5041301,
+                    3.397227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferreteria Cc",
+                "estrato": "",
+                "pais": " Colombia",
+                "departamento": "Antioquia",
+                "ciudadPoblacion": "Medellin",
+                "barrio": "",
+                "clasificacion": "",
+                "tipologia": "",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#FFF02D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6496399,
+                    6.1755437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Estructuras Y Proyectos",
+                "estrato": "",
+                "pais": " Colombia",
+                "departamento": "Antioquia",
+                "ciudadPoblacion": "Medellin",
+                "barrio": "",
+                "clasificacion": "",
+                "tipologia": "",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#FFF02D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5948849999999,
+                    6.24983599999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Miscelánea y ferromateriales la economía ",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "La nueva floresta ",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.4980455,
+                    3.4379829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Pinturas Y Acabados La 16",
+                "estrato": "",
+                "pais": " Colombia",
+                "departamento": "",
+                "ciudadPoblacion": "Pereira",
+                "barrio": "",
+                "clasificacion": "",
+                "tipologia": "",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#FFF02D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6918227,
+                    4.8130454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Miscelánea ciudad 2000",
+                "estrato": "4",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Ciudad 2000",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5188283,
+                    3.3940083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferroelectricos y repuestos estella",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Cauca",
+                "ciudadPoblacion": "Miranda",
+                "barrio": "Central",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.2297468,
+                    3.2528742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferretería Larra ",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Cauca",
+                "ciudadPoblacion": "Miranda",
+                "barrio": "San Antonio",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "Si",
+                "exhibi": "No",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.2301591,
+                    3.2471486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Cementos el libertador",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Palmira",
+                "barrio": "María cano",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.2746834,
+                    3.5288515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferretería y miscelánea el gran milagro",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Brisas de los andes",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.4992544,
+                    3.4720312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Depósito de materiales los arrayanes",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Las camelias",
+                "clasificacion": "B",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#B0CC49",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaB.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5260137,
+                    3.4062634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferretería angels",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Cauca",
+                "ciudadPoblacion": "Corinto",
+                "barrio": "Colombiano",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.2589071,
+                    3.1747946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferroelectricos la 28 palmira",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Palmira",
+                "barrio": "Centro",
+                "clasificacion": "A",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#DA802D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.298,
+                    3.5250105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Punto acabodos los colores",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Torres de maracaibo",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "No",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5174131,
+                    3.4172718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferretería ramirez",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Palmira",
+                "barrio": "Parques de llano grande",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.3154175,
+                    3.5453166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferretería todo insumos",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Santa elena",
+                "clasificacion": "B",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#B0CC49",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaB.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5215065,
+                    3.4249114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Willy ferretería",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Palmira",
+                "barrio": "Zamorano",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.2988581,
+                    3.5585208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Maderas y materiales el metro",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Santa Elena",
+                "clasificacion": "A",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "Si",
+                "marker-color": "#DA802D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5200347,
+                    3.4293494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Los parras ferretería",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Yumbo",
+                "barrio": "Campestre real",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "No",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.4911736,
+                    3.5847601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferretería del pueblo",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Santa elena",
+                "clasificacion": "A",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "No",
+                "exhibi": "Si",
+                "marker-color": "#DA802D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5200212,
+                    3.4282505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferroacceso galarza",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Meléndez",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "Si",
+                "exhibi": "No",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.552372,
+                    3.3765538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferretería mauo",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Melendez",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5472582,
+                    3.3753858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Mundo Del Color",
+                "estrato": "3",
+                "pais": " Colombia",
+                "departamento": "",
+                "ciudadPoblacion": "Manizales",
+                "barrio": "",
+                "clasificacion": "",
+                "tipologia": "",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#FFF02D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6816018,
+                    4.8269227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Mundo Del Color",
+                "estrato": "",
+                "pais": " Colombia",
+                "departamento": "",
+                "ciudadPoblacion": " Dos quebradas",
+                "barrio": "",
+                "clasificacion": "",
+                "tipologia": "",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#FFF02D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6816018,
+                    4.8269227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferretería todo tornillos",
+                "estrato": "1",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Bueno a aires",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5478153,
+                    3.3941569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Surtimateriales La Victoria",
+                "estrato": "",
+                "pais": " Colombia",
+                "departamento": "",
+                "ciudadPoblacion": " Barranquilla",
+                "barrio": "",
+                "clasificacion": "",
+                "tipologia": "",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#FFF02D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.8048471,
+                    10.9504601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferremateriales Santuario",
+                "estrato": "",
+                "pais": " Colombia",
+                "departamento": "",
+                "ciudadPoblacion": " Barranquilla",
+                "barrio": "",
+                "clasificacion": "",
+                "tipologia": "",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#FFF02D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.8061148,
+                    10.9476752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferretería la once",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Cauca",
+                "ciudadPoblacion": "Corinto",
+                "barrio": "El centro",
+                "clasificacion": "A",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "Si",
+                "marker-color": "#DA802D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.259667,
+                    3.1743632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferretería Apolo dog",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Palmira",
+                "barrio": "Colon",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.2922473,
+                    3.5257321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferretería ferreunidos",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Cauca",
+                "ciudadPoblacion": "Miranda",
+                "barrio": "Unidos",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.2326405,
+                    3.2502612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Real Ferreteria",
+                "estrato": "",
+                "pais": " Colombia",
+                "departamento": "",
+                "ciudadPoblacion": " Jamundi",
+                "barrio": "",
+                "clasificacion": "",
+                "tipologia": "",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#FFF02D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.536326,
+                    3.2577783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferroelectricos cecy",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Los lagos",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.4855142,
+                    3.4314123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Materiales Gaviria",
+                "estrato": "",
+                "pais": " Colombia",
+                "departamento": "",
+                "ciudadPoblacion": " Popayan",
+                "barrio": "",
+                "clasificacion": "",
+                "tipologia": "",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#FFF02D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6136279,
+                    2.4457835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferretería miranda",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Cauca",
+                "ciudadPoblacion": "Miranda",
+                "barrio": "-",
+                "clasificacion": "A",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#DA802D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.227165,
+                    3.2510276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferrelectricos",
+                "estrato": "",
+                "pais": " Colombia",
+                "departamento": "",
+                "ciudadPoblacion": " Palmira",
+                "barrio": "",
+                "clasificacion": "",
+                "tipologia": "",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#FFF02D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.2904602,
+                    3.5298056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferroelectricos santi",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Morichal de confandy",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5041301,
+                    3.397227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferroelectricos santi",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Morichal de confandy",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.504061,
+                    3.3972769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Miscelánea y variedades carmen",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Calipso",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.4974838,
+                    3.4256932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Comercializadora universal ",
+                "estrato": "1",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Vijes",
+                "barrio": "Parque princilal",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "Si",
+                "exhibi": "No",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.4424098,
+                    3.7003292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferretorre",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Vijes",
+                "barrio": "El sol",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "No",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.4169683,
+                    3.6178558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferroelectricos Restrepo R.",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Popular",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5118075,
+                    3.4723176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferromateriales cym",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Candelaria",
+                "barrio": "Villa Gorgona",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.3871644,
+                    3.3957133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferreelctricos",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Sur",
+                "clasificacion": "B",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#B0CC49",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaB.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5275317,
+                    3.417675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferroelectricos la cigarra",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Siloe",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "No",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5543164,
+                    3.4180351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Construmark",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Cauca",
+                "ciudadPoblacion": "Corinto",
+                "barrio": "Villa Gorgona",
+                "clasificacion": "A",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#DA802D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.3860965,
+                    3.3976383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferremateriales LM",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "El cortijo",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.556247,
+                    3.4164327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferrotornillos",
+                "estrato": "1",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Yumbo",
+                "barrio": "",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.4893061,
+                    3.5846651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferretería ferrecreo",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Vijes",
+                "barrio": "-",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.3903907,
+                    3.6149615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferretería Jiménez hermanos",
+                "estrato": "4",
+                "pais": "Colombia",
+                "departamento": "Atlántico",
+                "ciudadPoblacion": "Barranquilla",
+                "barrio": "Olaya",
+                "clasificacion": "B",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#B0CC49",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaB.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.8070877,
+                    10.9817512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferreteria Santa Ines",
+                "estrato": "",
+                "pais": " Colombia",
+                "departamento": "",
+                "ciudadPoblacion": " Soledad",
+                "barrio": "",
+                "clasificacion": "",
+                "tipologia": "",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#FFF02D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.7721840999999,
+                    10.9316543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Distribuidora La Alemada",
+                "estrato": "",
+                "pais": " Colombia",
+                "departamento": "Cundinamarca",
+                "ciudadPoblacion": " Bogota",
+                "barrio": "",
+                "clasificacion": "",
+                "tipologia": "",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#FFF02D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1026236,
+                    4.5836842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferromateriales luna",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Siloe",
+                "clasificacion": "A",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "Si",
+                "exhibi": "No",
+                "marker-color": "#DA802D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5569674,
+                    3.4168826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Districolores",
+                "estrato": "",
+                "pais": " Colombia",
+                "departamento": "",
+                "ciudadPoblacion": " Cali",
+                "barrio": "",
+                "clasificacion": "",
+                "tipologia": "",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#FFF02D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5115831,
+                    3.4442224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Pintu special s.a.s",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Guallaquil",
+                "clasificacion": "AA",
+                "tipologia": "Almacenes de Pinturas Arquitectonicas",
+                "pubExte": "Si",
+                "pubInte": "No",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "pinturasAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5260792,
+                    3.4375992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferromateriales la roca",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Palmira",
+                "barrio": "El jardin",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.2774764,
+                    3.5277558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferroelectricos tulua",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Los lagos",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.4871335,
+                    3.4279567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferreteria Quil",
+                "estrato": "",
+                "pais": " Colombia",
+                "departamento": "",
+                "ciudadPoblacion": " Barranquilla",
+                "barrio": "",
+                "clasificacion": "",
+                "tipologia": "",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#FFF02D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.7784759,
+                    10.9522734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Don leon sociedad",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Caldas",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5465699,
+                    3.3943883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Centro Ferretero Mafer",
+                "estrato": "",
+                "pais": " Colombia",
+                "departamento": "Cundinamarca",
+                "ciudadPoblacion": " Bogota",
+                "barrio": "",
+                "clasificacion": "",
+                "tipologia": "",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#FFF02D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.080921,
+                    4.603725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferretería 3 esquinas",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Melendez",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5546832,
+                    3.3731179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Contrucai",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "",
+                "clasificacion": "B",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#B0CC49",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaB.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.4663784,
+                    3.4315479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferreconstrucciones",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "El Cerrito",
+                "barrio": "El cerrito",
+                "clasificacion": "AA",
+                "tipologia": "",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.3102327,
+                    3.6846423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferroelectricos dicar",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Melendez",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5491648,
+                    3.3740235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Servicio Al Constructor",
+                "estrato": "",
+                "pais": " Colombia",
+                "departamento": "Antioquia",
+                "ciudadPoblacion": "Medellin",
+                "barrio": "",
+                "clasificacion": "",
+                "tipologia": "",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#FFF02D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5957983,
+                    6.2320974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Comercializadora ferrolaminas",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Candelaria",
+                "barrio": "Poblado campeste",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.4576856,
+                    3.4128318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Construyamos espacios ",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Caldas",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.547351,
+                    3.3942064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferrovariades los mangos",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Palmira",
+                "barrio": "Los mangos",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.2931066,
+                    3.5576299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferroelectricos la novena",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Yumbo",
+                "barrio": "Comun",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.4911611,
+                    3.5847431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferrovariades Chapinero",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Palmira",
+                "barrio": "Chapinero",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.3115195,
+                    3.5029878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferretería Claudia Lorena",
+                "estrato": "4",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Caney",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5155457,
+                    3.3836607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferretería Roger s.a.s",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "El Cerrito",
+                "barrio": "Centro",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.3130795,
+                    3.6841998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferroelectricos Corinto s.a.s",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Cauca",
+                "ciudadPoblacion": "Corinto",
+                "barrio": "El centro",
+                "clasificacion": "A",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#DA802D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.2606623,
+                    3.1732152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferroelectricos arlex",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "La 15",
+                "clasificacion": "A",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#DA802D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5139133,
+                    3.4453161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferretería jam s.a.s",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Lidi",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.549507,
+                    3.4228351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferretería chamorro",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Yumbo",
+                "barrio": "-",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.4907945,
+                    3.5840686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferromateriales el plomero",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "El cortijo",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5569267,
+                    3.4168953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferrecentro",
+                "estrato": "",
+                "pais": " Colombia",
+                "departamento": "",
+                "ciudadPoblacion": " Chinchina",
+                "barrio": "",
+                "clasificacion": "",
+                "tipologia": "",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#FFF02D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.60526,
+                    4.98273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Miscelánea y ferretería la rivera ",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "La rivera",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.4953053,
+                    3.4701636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Electromiscelanea el Danubio",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Prados del sur",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5537175,
+                    3.3895022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferretería el martillo",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Palmira",
+                "barrio": "Guayabos del ingenio",
+                "clasificacion": "AA",
+                "tipologia": "",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.2903773,
+                    3.5227422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferretería Boteros palmira",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Palmira",
+                "barrio": "Los andes",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "No",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.2912858,
+                    3.5259354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferretería Juan f",
+                "estrato": "1",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Melendez",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5459236,
+                    3.3752351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferreteros",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Candelaria",
+                "barrio": "Villa Gorgona",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "Si",
+                "exhibi": "Si",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.3867429,
+                    3.3965131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferropinturas el color",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Santa Elena",
+                "clasificacion": "A",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "No",
+                "exhibi": "Si",
+                "marker-color": "#DA802D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5200038,
+                    3.4282427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferroelectricos jg",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Puertas del sol",
+                "clasificacion": "B",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#B0CC49",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaB.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.4789204,
+                    3.4337813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Ferroelectricos jc",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Valle del Cauca",
+                "ciudadPoblacion": "Cali",
+                "barrio": "Morichal de confandi",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "Si",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5024985,
+                    3.4025732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Importaciones boxer tools y uyustools",
+                "estrato": "2",
+                "pais": "Colombia",
+                "departamento": "Cauca",
+                "ciudadPoblacion": "Corinto",
+                "barrio": "La colombiana",
+                "clasificacion": "A",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#DA802D",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.2586793,
+                    3.1730521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Pinturas el diamante",
+                "estrato": "5",
+                "pais": "Colombia",
+                "departamento": "Antioquia",
+                "ciudadPoblacion": "Medellín",
+                "barrio": "Nuqui",
+                "clasificacion": "B",
+                "tipologia": "Depósitos de materiales",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#B0CC49",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "DepositoAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4658033,
+                    6.3844396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombreNegocio": "Shwhhwhvehehe",
+                "estrato": "3",
+                "pais": "Colombia",
+                "departamento": "Atlántico",
+                "ciudadPoblacion": "Juan de Acosta",
+                "barrio": " Hddhhds",
+                "clasificacion": "AA",
+                "tipologia": "Ferreterías en general",
+                "pubExte": "No",
+                "pubInte": "No",
+                "exhibi": "No",
+                "marker-color": "#638DC8",
+                "marker-symbol": "star",
+                "maker-size": "large",
+                "regional": "norte",
+                "icon": {
+                    "iconUrl": "FerreteriaAA.png",
+                    "iconSize": [
+                        55,
+                        55
+                    ],
+                    "iconAnchor": [
+                        50,
+                        50
+                    ]
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.7913061,
+                    11.0072576
+                ]
+            }
+        }
+    ]
+}
